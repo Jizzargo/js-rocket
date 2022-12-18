@@ -59,7 +59,7 @@ a:hover{
 	height: 225px;
 	margin-left: -112.5px;
 	background: url('../img/rocket.png') no-repeat 0 0;
-	transition: bottom 10000ms;
+	transition: bottom 1000ms;
 
 }
 
