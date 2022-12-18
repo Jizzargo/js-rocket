@@ -59,7 +59,7 @@ a:hover{
 	height: 225px;
 	margin-left: -112.5px;
 	background: url('../img/rocket.png') no-repeat 0 0;
-	transition: bottom 100000ms;
+	transition: bottom 10000ms;
 
 }
 
@@ -69,7 +69,7 @@ body.body-state1 .rocket{
 
 body.body-state3 .rocket,
 body.body-state4 .rocket{
-	bottom: 1000px;
+	bottom: 10000px;
 }
 
 body.body-state5 .rocket{
