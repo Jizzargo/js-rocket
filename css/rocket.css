@@ -42,8 +42,7 @@ a:hover{
 }
 
 .ground{
-	background: url('../img/grass.JFIF') no-repeat center 
-	center;
+	background: url('../img/grass.JFIF') no-repeat center center;
 	position: absolute;
 	bottom: 0;
 	left: 0;
@@ -59,7 +58,7 @@ a:hover{
 	height: 225px;
 	margin-left: -112.5px;
 	background: url('../img/rocket.png') no-repeat 0 0;
-	transition: bottom 5000ms;
+	transition: bottom 7000ms;
 
 }
 
@@ -69,7 +68,7 @@ body.body-state1 .rocket{
 
 body.body-state3 .rocket,
 body.body-state4 .rocket{
-	bottom: 10000px;
+	bottom: 3000px;
 }
 
 body.body-state5 .rocket{
