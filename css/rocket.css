@@ -25,7 +25,6 @@ a.button{
 	border-radius: 5px;
 	text-transform: uppercase;
 	transition: color 300ms;
-	text-decoration-thickness: ;
 
 }
 
@@ -60,7 +59,7 @@ a:hover{
 	height: 225px;
 	margin-left: -112.5px;
 	background: url('../img/rocket.png') no-repeat 0 0;
-	transition: bottom 10000ms;
+	transition: bottom 100000ms;
 
 }
 
